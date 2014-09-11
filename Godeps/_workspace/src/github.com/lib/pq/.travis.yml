@@ -1,0 +1,13 @@
+language: go
+
+go:
+  - 1.0.2
+  - 1.0.3
+  - 1.1
+  - tip
+
+script:
+ - env PGUSER=postgres go test -v ./...
+
+before_script:
+ - psql -c 'create database pqgotest;' -U postgres

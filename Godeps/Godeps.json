@@ -7,6 +7,10 @@
 			"Rev": "80293b668fdd67d7dc7e20fcdb27f73578f58182"
 		},
 		{
+			"ImportPath": "bitbucket.org/liamstask/goose/lib/goose",
+			"Rev": "80293b668fdd67d7dc7e20fcdb27f73578f58182"
+		},
+		{
 			"ImportPath": "github.com/kylelemons/go-gypsy/yaml",
 			"Rev": "0ddb27ce74ade2ca988ec85587d636e10312dfc6"
 		},
@@ -17,6 +21,16 @@
 		{
 			"ImportPath": "github.com/ziutek/mymysql/godrv",
 			"Comment": "v0.2-265-g872ab67",
+			"Rev": "872ab6792fdbbc715def065b0bbd2a7d91715b97"
+		},
+		{
+			"ImportPath": "github.com/ziutek/mymysql/mysql",
+			"Comment": "v1.5.3-8-g872ab67",
+			"Rev": "872ab6792fdbbc715def065b0bbd2a7d91715b97"
+		},
+		{
+			"ImportPath": "github.com/ziutek/mymysql/native",
+			"Comment": "v1.5.3-8-g872ab67",
 			"Rev": "872ab6792fdbbc715def065b0bbd2a7d91715b97"
 		}
 	]
